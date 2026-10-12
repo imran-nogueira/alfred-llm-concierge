@@ -1,6 +1,4 @@
-# Alfred — Local-LLM Concierge Bot
-
-> A restaurant concierge that answers customers on Telegram and Discord, powered by an LLM running 100% locally and grounded on the restaurant's real data.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Alfred — A restaurant concierge answering on Telegram and Discord, powered by an LLM running 100% locally." src="assets/banner-light.png"></picture>
 
 **Epitech Bachelor · Year 1 · AI module (B-AIA-210) · Apr 2026**
 Source code is private under Epitech's academic policy. Happy to walk you through it or demo it live → **imran.nogueira@gmail.com**
